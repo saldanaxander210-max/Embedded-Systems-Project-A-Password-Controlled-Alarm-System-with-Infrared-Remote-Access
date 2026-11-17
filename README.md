@@ -1,5 +1,16 @@
 //# Embedded-Systems-Project-A-Password-Controlled-Alarm-System-with-Infrared-Remote-Access
+
 //For Modelling and Simulation
+
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c18b1711-b9ca-4c3f-a415-221108a0e132" /> 
+
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56314c53-bd32-4e4c-a7db-6e51de7cde2b" />
+
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/c21812a6-a99c-4ad2-8aa2-2601f49ac71a" />
+
+<img width="624" height="378" alt="image" src="https://github.com/user-attachments/assets/0021e926-b101-4293-808a-30e01bf6c173" />
+
+
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
