@@ -2,6 +2,20 @@
 
 //For Modelling and Simulation
 
+[Alarm System with an IR Remote for Password-Controlled Access-2.pdf](https://github.com/user-attachments/files/34974741/Alarm.System.with.an.IR.Remote.for.Password-Controlled.Access-2.pdf)
+
+Presented by:
+Culong, Hana Miyako
+Epon, Jemar
+Rafanan, Nathaniel
+Saldaña, Alexander
+
+Presented to:
+Modeling and Simulation
+Sir. Alvin M. Cervantes
+Gardner College
+
+
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c18b1711-b9ca-4c3f-a415-221108a0e132" /> 
 
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56314c53-bd32-4e4c-a7db-6e51de7cde2b" />
